@@ -1,2 +1,6 @@
 venv/
+venv311/
 .env
+.vscode/
+.DS_Store
+
